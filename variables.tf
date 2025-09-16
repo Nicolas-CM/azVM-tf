@@ -32,4 +32,5 @@ variable "admin_password" {
   type        = string
   default     = "Nico2024!"
   description = "Contraseña del usuario administrador"
+  sensitive   = true
 }
