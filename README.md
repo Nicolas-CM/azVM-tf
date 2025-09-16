@@ -12,16 +12,13 @@ Este proyecto utiliza Terraform para desplegar una máquina virtual (VM) Linux e
 ## Evidencias
 A continuación se muestran capturas del proceso:
 
-### 1. Visualización de la cuenta en Azure
-![Visualización de la cuenta en Azure](images/account_list.jpg)
-
-### 2. Portal de Azure mostrando la VM creada
+### 1. Portal de Azure mostrando la VM creada
 ![Portal de Azure mostrando la VM creada](images/portal_azure.jpg)
 
-### 3. Conexión exitosa a la VM
+### 2. Conexión exitosa a la VM
 ![Conexión exitosa a la VM](images/success_conection.jpg)
 
-### 4. Eliminación de la VM con Terraform Destroy
+### 3. Eliminación de la VM con Terraform Destroy
 ![Eliminación de la VM con Terraform Destroy](images/destroy_vm.jpg)
 
 ---
